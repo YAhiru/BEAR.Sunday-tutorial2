@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS `ticket` COLLATE 'utf8_general_ci' ;
+FLUSH PRIVILEGES ;
